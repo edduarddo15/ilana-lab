@@ -36,7 +36,7 @@ public class FooBar {
             System.out.print("Foo");
             //Imprime el número si no cumple con ninguna validación
         } else {
-            System.out.print(num);
+            System.out.print("El número es: " +num);
         }
     }
 
