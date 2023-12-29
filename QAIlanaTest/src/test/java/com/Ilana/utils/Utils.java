@@ -37,6 +37,8 @@ public class Utils {
         driver.get(url);
     }
 
+
+
     /**
      * Método creado para encontrar el localizador de un elemento
      * @param locator
