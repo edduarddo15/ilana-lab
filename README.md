@@ -8,3 +8,4 @@ Se da aceptar en las ventanas que se abrieron
 Se debe tener un IDE de desarrollo, puede ser Intellij o Eclipse.
 Se debe tener instalado maven
 Luego se procede a abrir el proyecto donde estan las pruebas y ejecutarlas.
+Para ejecutar las pruebas, se debe seleccionar la clase test, clic dereclo y seleccionar Run
